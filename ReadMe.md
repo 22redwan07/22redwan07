@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:070B18,45:101D3A,100:00C9E8&text=text=MD.%20Redwan%20Shiddiki%20S.&fontColor=F4FBFF&fontSize=54&fontAlignY=42&desc=AI%20Research%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=63&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:070B18,45:101D3A,100:00C9E8&text=MD.%20Redwan%20Shiddiki%20S.&fontColor=F4FBFF&fontSize=54&fontAlignY=42&desc=AI%20Research%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=63&descSize=16&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=42DDF5&center=true&vCenter=true&width=720&lines=CSE+Graduate+%40+Manarat+International+University;AI+%26+Machine+Learning+Researcher;Computer+Vision+%7C+Medical+Imaging+%7C+Agricultural+AI;Building+research-driven+solutions+for+real-world+problems">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=42DDF5&center=true&vCenter=true&width=720&lines=CSE+Graduate+%40+Manarat+International+University;AI+%26+Machine+Learning+Researcher;Computer+Vision+%7C+Medical+Imaging+%7C+Agricultural+AI;Building+research-driven+solutions+for+real-world+problems" alt="Typing introduction"/>
