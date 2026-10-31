@@ -1,145 +1,180 @@
 <div align="center">
 
-<!-- NeuroNova animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,35:111C3A,70:243B70,100:00D4FF&height=220&section=header&text=MD.%20Redwan%20Shiddiki%20Seyam&fontSize=34&fontColor=EAF7FF&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20Research&descSize=14&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:070B18,45:101D3A,100:00C9E8&text=REDWAN%20SEYAM&fontColor=F4FBFF&fontSize=54&fontAlignY=42&desc=AI%20Research%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=63&descSize=16&animation=fadeIn" />
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+Engineering+Graduate;AI+%26+Machine+Learning+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+Medical+AI;Building+AI+solutions+for+real-world+problems">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+Engineering+Graduate;AI+%26+Machine+Learning+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+Medical+AI;Building+AI+solutions+for+real-world+problems" alt="Animated introduction" />
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=42DDF5&center=true&vCenter=true&width=720&lines=CSE+Graduate+%40+Manarat+International+University;AI+%26+Machine+Learning+Researcher;Computer+Vision+%7C+Medical+Imaging+%7C+Agricultural+AI;Building+research-driven+solutions+for+real-world+problems">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=42DDF5&center=true&vCenter=true&width=720&lines=CSE+Graduate+%40+Manarat+International+University;AI+%26+Machine+Learning+Researcher;Computer+Vision+%7C+Medical+Imaging+%7C+Agricultural+AI;Building+research-driven+solutions+for+real-world+problems" alt="Typing introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/22redwan07"><img src="https://img.shields.io/badge/GitHub-22redwan07-101827?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-Connect-101827?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-101827?style=for-the-badge&logo=googlescholar&logoColor=00D4FF" alt="Google Scholar"/></a>
-<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0009--0004--0447--3750-101827?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=42DDF5" /></a>
+<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-111827?style=flat-square&logo=googlescholar&logoColor=42DDF5" /></a>
+<a href="https://www.researchgate.net/profile/Redwan-Shiddiki"><img src="https://img.shields.io/badge/ResearchGate-Profile-111827?style=flat-square&logo=researchgate&logoColor=42DDF5" /></a>
+<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0009--0004--0447--3750-111827?style=flat-square&logo=orcid&logoColor=A6CE39" /></a>
+<a href="mailto:seyam07redwan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=22redwan07&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=22redwan07&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🧬 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I’m **MD. Redwan Shiddiki Seyam**, a Computer Science and Engineering graduate from **Manarat International University, Bangladesh**. I’m interested in developing and evaluating intelligent systems that address practical challenges through data-driven methods.
+## 👨‍💻 About Me
 
-My current research focus is on **Deep Learning, Computer Vision, Medical Imaging, and Agricultural AI**. I enjoy working across the research pipeline, from literature review and dataset preparation to model development, evaluation, and research communication.
+I’m **MD. Redwan Shiddiki Seyam**, a Computer Science and Engineering graduate from **Manarat International University, Bangladesh**.
 
-- 🔭 Exploring deep learning methods for image-based classification and applied AI.
-- 🌱 Deepening my knowledge of computer vision, explainable AI, and biomedical applications.
-- 📄 Co-author of an IEEE ICCIT 2025 research paper.
-- 🤝 Interested in research collaboration and graduate research opportunities.
-- 📍 Bangladesh
+My interests lie at the intersection of **Artificial Intelligence, Deep Learning, and Computer Vision**. I work on image-based learning problems, with a particular interest in applications across healthcare and agriculture.
 
-## 🔬 Research Interests
+I enjoy the full research workflow: exploring literature, preparing datasets, building models, evaluating results, and communicating findings.
 
-<p>
-  <img src="https://img.shields.io/badge/Deep_Learning-0B1B32?style=flat-square&logo=pytorch&logoColor=00D4FF"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-0B1B32?style=flat-square&logo=opencv&logoColor=00D4FF"/>
-  <img src="https://img.shields.io/badge/Medical_Imaging-0B1B32?style=flat-square&logo=siemens&logoColor=00D4FF"/>
-  <img src="https://img.shields.io/badge/Agricultural_AI-0B1B32?style=flat-square&logo=leaflet&logoColor=7CFC98"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-0B1B32?style=flat-square&logo=scikitlearn&logoColor=F7C843"/>
-  <img src="https://img.shields.io/badge/Explainable_AI-0B1B32?style=flat-square&logo=brain&logoColor=00D4FF"/>
-  <img src="https://img.shields.io/badge/Generative_AI-0B1B32?style=flat-square&logo=openai&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Human--AI_Interaction-0B1B32?style=flat-square&logo=probot&logoColor=00D4FF"/>
-</p>
+</td>
+<td width="42%" valign="top">
 
-## 📚 Research & Publications
+## 🎯 Research Focus
 
-### IEEE ICCIT 2025
-**The Impact of Generative AI Interaction on Human Metacognition and Critical Thinking**
+- Deep Learning & Machine Learning
+- Computer Vision
+- Medical Imaging & Biomedical AI
+- Agricultural AI
+- Explainable AI
+- Generative AI & Human-AI Interaction
 
-- Co-authored research paper presented/published in the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.
-- Publication date: December 19, 2025.
-- Published in IEEE conference proceedings, pages 5793–5798.
-- Research examined the relationship between generative AI interaction, metacognition, and critical thinking using a mixed-methods approach.
+<br/>
 
-🔗 [Find my research on Google Scholar](https://scholar.google.com/citations?user=TYgvMHUAAAAJ)
+## 🌏 Based In
 
-### Selected Research Project
+🇧🇩 Bangladesh
+
+</td>
+</tr>
+</table>
+
+## 🧪 Featured Research
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 01 · Cattle Disease Image Classification
 
 **An Image-Based Deep Learning Framework for Automated Cattle Disease Classification: A Comparative Study of Custom CNN and Transfer Learning Models**
 
-A comparative computer-vision study exploring automated classification of cattle diseases from images. The work evaluates a custom CNN alongside transfer-learning architectures, including ConvNeXt-Tiny, ResNet50, DenseNet121, EfficientNet-B0, and MobileNetV2.
+A comparative study of custom CNN and transfer-learning architectures for classifying cattle disease images.
 
-- Dataset: [Cattle Disease Image Dataset](https://www.kaggle.com/datasets/redwanseyam/cows-dataset)
-- Classes: Foot-and-mouth disease, lumpy skin disease, and healthy cattle.
-- Focus: image preprocessing, augmentation, model comparison, and performance evaluation.
+`Computer Vision` `Transfer Learning` `Agricultural AI`
 
-### Other Research & Development Areas
+**Models explored:** ConvNeXt-Tiny · ResNet50 · DenseNet121 · EfficientNet-B0 · MobileNetV2 · Custom CNN
 
-- 🐦 Bird Species Classification using MobileNetV2
-- 🌿 Olive Disease Classification
-- 🍅 Tomato Disease Detection
-- 📰 Fake News Detection
-- 🇧🇩 Bangladesh 2.0 Research Framework
+**Dataset:** [Cattle Disease Image Dataset on Kaggle](https://www.kaggle.com/datasets/redwanseyam/cows-dataset)
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
 
-<div align="center">
+### 02 · Generative AI & Human Cognition
 
-**Languages**
+**The Impact of Generative AI Interaction on Human Metacognition and Critical Thinking**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql&theme=dark" alt="Programming languages"/>
+Co-authored research published in the proceedings of the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.
 
-**AI, Machine Learning & Data Science**
+`Generative AI` `Human-AI Interaction` `Metacognition`
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
+**Publication:** IEEE · December 19, 2025 · pp. 5793–5798
 
-**Web Development & Databases**
+[Find publication via Google Scholar](https://scholar.google.com/citations?user=TYgvMHUAAAAJ)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,sqlite&theme=dark" alt="Web and database tools"/>
+</td>
+</tr>
+</table>
 
-**Tools & Platforms**
+## 🌱 Other Research Areas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux&theme=dark" alt="Development tools"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Bird%20Species%20Classification-MobileNetV2-10243A?style=flat-square" />
+<img src="https://img.shields.io/badge/Olive%20Disease%20Classification-Computer%20Vision-10243A?style=flat-square" />
+<img src="https://img.shields.io/badge/Tomato%20Disease%20Detection-Deep%20Learning-10243A?style=flat-square" />
+<img src="https://img.shields.io/badge/Fake%20News%20Detection-NLP-10243A?style=flat-square" />
+</p>
 
-</div>
+## ⚙️ Technology & Tools
 
-Additional libraries and tools: **Keras, NumPy, Pandas, Matplotlib, Google Colab, Jupyter Notebook, and Kaggle**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Analytics
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+**Data & Scientific Computing**
+
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
+
+NumPy · Pandas · Matplotlib · Scikit-learn · Keras
+
+</td>
+<td width="50%" valign="top">
+
+**Web & Database**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,sqlite&theme=dark" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+Google Colab · Jupyter Notebook · Kaggle
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/22redwan07">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=22redwan07&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=7CFC98&text_color=CFD8E6&ring_color=00D4FF&include_all_commits=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=22redwan07&show_icons=true&hide_border=true&bg_color=0B1020&title_color=42DDF5&icon_color=42DDF5&text_color=DCE7F5&rank_icon=github" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/22redwan07">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22redwan07&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=CFD8E6&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22redwan07&layout=compact&hide_border=true&bg_color=0B1020&title_color=42DDF5&text_color=DCE7F5&langs_count=6" alt="Top languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=22redwan07&hide_border=true&background=0B1020&ring=00D4FF&fire=7CFC98&currStreakLabel=00D4FF&sideLabels=CFD8E6&dates=8A96A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="78%" src="https://streak-stats.demolab.com?user=22redwan07&hide_border=true&background=0B1020&ring=42DDF5&fire=F59E0B&currStreakLabel=42DDF5&sideLabels=DCE7F5&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=22redwan07&bg_color=0B1020&color=CFD8E6&line=00D4FF&point=7CFC98&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0B1020?style=for-the-badge&logo=googlescholar&logoColor=00D4FF" alt="Google Scholar"/></a>
-<a href="https://www.researchgate.net/profile/Redwan-Shiddiki"><img src="https://img.shields.io/badge/ResearchGate-0B1020?style=for-the-badge&logo=researchgate&logoColor=00D4FF" alt="ResearchGate"/></a>
-<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0B1020?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
-<a href="mailto:seyam07redwan@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=22redwan07&bg_color=0B1020&color=DCE7F5&line=42DDF5&point=F59E0B&area=true&hide_border=true" alt="Contribution graph"/>
 
 </div>
 
----
+## 🤝 Let’s Connect
 
 <div align="center">
 
-**“Turning research ideas into intelligent solutions for real-world challenges.”**
+<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=42DDF5" /></a>
+<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-0B1020?style=for-the-badge&logo=googlescholar&logoColor=42DDF5" /></a>
+<a href="https://www.researchgate.net/profile/Redwan-Shiddiki"><img src="https://img.shields.io/badge/ResearchGate-0B1020?style=for-the-badge&logo=researchgate&logoColor=42DDF5" /></a>
+<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0B1020?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:243B70,100:080B1A&height=100&section=footer" />
+<br/><br/>
+
+*“Curiosity drives research. Research drives meaningful innovation.”*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9E8,55:101D3A,100:070B18&height=115&section=footer" />
 
 </div>
