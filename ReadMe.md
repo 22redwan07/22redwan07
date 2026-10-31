@@ -122,7 +122,13 @@ Co-authored research published in the proceedings of the **28th International Co
 
 <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
 
-NumPy · Pandas · Matplotlib · Scikit-learn · Keras
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
