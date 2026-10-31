@@ -1,21 +1,145 @@
-# 💫 About Me:
-👋 Hi, I'm MD. Redwan Shiddiki Seyam<br><br>🎓 CSE Graduate | Manarat International University, Bangladesh<br><br>🔬 AI & Machine Learning Researcher | Aspiring Research Scientist<br><br>💡 Passionate about Artificial Intelligence, Deep Learning, and Computer Vision. Interested in building intelligent solutions for real-world problems in healthcare, agriculture, and human-AI interaction.<br><br>🔬 Research Interests<br>• Artificial Intelligence & Machine Learning<br>• Deep Learning & Computer Vision<br>• Medical Imaging & Biomedical AI<br>• Agricultural AI<br>• Explainable AI<br>• Generative AI & Human-AI Interaction<br><br>💻 Technical Skills<br>• Python, Java, JavaScript, SQL<br>• TensorFlow, PyTorch, Keras, Scikit-learn<br>• OpenCV, NumPy, Pandas, Matplotlib<br>• React.js, Node.js, Express.js<br>• Git, GitHub, Google Colab, Jupyter Notebook<br><br>📚 Research & Publications<br>• IEEE ICCIT 2025 Research Paper<br>• Deep Learning-Based Cattle Disease Classification<br>• International Poster Competition for Young Researchers 2025<br><br>🚀 Currently Exploring<br>• AI Research & Innovation<br>• Computer Vision & Deep Learning<br>• Fully Funded Master's by Research Opportunities<br>• Collaborative Research Projects<br><br>📫 Connect With Me<br>🔗 LinkedIn: linkedin.com/in/md-redwan-shiddiki<br>💻 GitHub: github.com/22redwan07<br>📚 Google Scholar: scholar.google.com/citations?user=TYgvMHUAAAAJ<br>🔬 ResearchGate: researchgate.net/profile/Redwan-Shiddiki<br>🌐 ORCID: orcid.org/0009-0004-0447-3750<br><br>✨ Turning ideas into intelligent solutions through research and innovation.
+<div align="center">
 
+<!-- NeuroNova animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,35:111C3A,70:243B70,100:00D4FF&height=220&section=header&text=MD.%20Redwan%20Shiddiki%20Seyam&fontSize=34&fontColor=EAF7FF&fontAlignY=38&desc=AI%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20Research&descSize=14&descAlignY=58&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/redwanshiddik22382) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/md-redwan-shiddiki) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Remarkable_Floor2453/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdredwan.shiddiki@gmail.com) 
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+Engineering+Graduate;AI+%26+Machine+Learning+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+Medical+AI;Building+AI+solutions+for+real-world+problems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+Engineering+Graduate;AI+%26+Machine+Learning+Researcher;Deep+Learning+%7C+Computer+Vision+%7C+Medical+AI;Building+AI+solutions+for+real-world+problems" alt="Animated introduction" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=22redwan07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=22redwan07&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=22redwan07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<a href="https://github.com/22redwan07"><img src="https://img.shields.io/badge/GitHub-22redwan07-101827?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-Connect-101827?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-101827?style=for-the-badge&logo=googlescholar&logoColor=00D4FF" alt="Google Scholar"/></a>
+<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0009--0004--0447--3750-101827?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=22redwan07&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=22redwan07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 About Me
+
+I’m **MD. Redwan Shiddiki Seyam**, a Computer Science and Engineering graduate from **Manarat International University, Bangladesh**. I’m interested in developing and evaluating intelligent systems that address practical challenges through data-driven methods.
+
+My current research focus is on **Deep Learning, Computer Vision, Medical Imaging, and Agricultural AI**. I enjoy working across the research pipeline, from literature review and dataset preparation to model development, evaluation, and research communication.
+
+- 🔭 Exploring deep learning methods for image-based classification and applied AI.
+- 🌱 Deepening my knowledge of computer vision, explainable AI, and biomedical applications.
+- 📄 Co-author of an IEEE ICCIT 2025 research paper.
+- 🤝 Interested in research collaboration and graduate research opportunities.
+- 📍 Bangladesh
+
+## 🔬 Research Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Deep_Learning-0B1B32?style=flat-square&logo=pytorch&logoColor=00D4FF"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0B1B32?style=flat-square&logo=opencv&logoColor=00D4FF"/>
+  <img src="https://img.shields.io/badge/Medical_Imaging-0B1B32?style=flat-square&logo=siemens&logoColor=00D4FF"/>
+  <img src="https://img.shields.io/badge/Agricultural_AI-0B1B32?style=flat-square&logo=leaflet&logoColor=7CFC98"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-0B1B32?style=flat-square&logo=scikitlearn&logoColor=F7C843"/>
+  <img src="https://img.shields.io/badge/Explainable_AI-0B1B32?style=flat-square&logo=brain&logoColor=00D4FF"/>
+  <img src="https://img.shields.io/badge/Generative_AI-0B1B32?style=flat-square&logo=openai&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Human--AI_Interaction-0B1B32?style=flat-square&logo=probot&logoColor=00D4FF"/>
+</p>
+
+## 📚 Research & Publications
+
+### IEEE ICCIT 2025
+**The Impact of Generative AI Interaction on Human Metacognition and Critical Thinking**
+
+- Co-authored research paper presented/published in the **28th International Conference on Computer and Information Technology (ICCIT 2025)**.
+- Publication date: December 19, 2025.
+- Published in IEEE conference proceedings, pages 5793–5798.
+- Research examined the relationship between generative AI interaction, metacognition, and critical thinking using a mixed-methods approach.
+
+🔗 [Find my research on Google Scholar](https://scholar.google.com/citations?user=TYgvMHUAAAAJ)
+
+### Selected Research Project
+
+**An Image-Based Deep Learning Framework for Automated Cattle Disease Classification: A Comparative Study of Custom CNN and Transfer Learning Models**
+
+A comparative computer-vision study exploring automated classification of cattle diseases from images. The work evaluates a custom CNN alongside transfer-learning architectures, including ConvNeXt-Tiny, ResNet50, DenseNet121, EfficientNet-B0, and MobileNetV2.
+
+- Dataset: [Cattle Disease Image Dataset](https://www.kaggle.com/datasets/redwanseyam/cows-dataset)
+- Classes: Foot-and-mouth disease, lumpy skin disease, and healthy cattle.
+- Focus: image preprocessing, augmentation, model comparison, and performance evaluation.
+
+### Other Research & Development Areas
+
+- 🐦 Bird Species Classification using MobileNetV2
+- 🌿 Olive Disease Classification
+- 🍅 Tomato Disease Detection
+- 📰 Fake News Detection
+- 🇧🇩 Bangladesh 2.0 Research Framework
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql&theme=dark" alt="Programming languages"/>
+
+**AI, Machine Learning & Data Science**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
+
+**Web Development & Databases**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,sqlite&theme=dark" alt="Web and database tools"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux&theme=dark" alt="Development tools"/>
+
+</div>
+
+Additional libraries and tools: **Keras, NumPy, Pandas, Matplotlib, Google Colab, Jupyter Notebook, and Kaggle**.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/22redwan07">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=22redwan07&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=7CFC98&text_color=CFD8E6&ring_color=00D4FF&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/22redwan07">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22redwan07&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=CFD8E6&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=22redwan07&hide_border=true&background=0B1020&ring=00D4FF&fire=7CFC98&currStreakLabel=00D4FF&sideLabels=CFD8E6&dates=8A96A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=22redwan07&bg_color=0B1020&color=CFD8E6&line=00D4FF&point=7CFC98&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/md-redwan-shiddiki"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=TYgvMHUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0B1020?style=for-the-badge&logo=googlescholar&logoColor=00D4FF" alt="Google Scholar"/></a>
+<a href="https://www.researchgate.net/profile/Redwan-Shiddiki"><img src="https://img.shields.io/badge/ResearchGate-0B1020?style=for-the-badge&logo=researchgate&logoColor=00D4FF" alt="ResearchGate"/></a>
+<a href="https://orcid.org/0009-0004-0447-3750"><img src="https://img.shields.io/badge/ORCID-0B1020?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+<a href="mailto:seyam07redwan@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+**“Turning research ideas into intelligent solutions for real-world challenges.”**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,45:243B70,100:080B1A&height=100&section=footer" />
+
+</div>
